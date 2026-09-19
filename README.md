@@ -15,3 +15,7 @@ Repozytorium do nauki Gita na przykładach analitycznych.
 ## Repozytorium zdalne
 
 Projekt jest synchronizowany z GitHubem.
+
+## Źródło
+
+Repozytorium powstaje na kursie Git dla analityków
