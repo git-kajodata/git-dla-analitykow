@@ -11,3 +11,7 @@ Repozytorium do nauki Gita na przykładach analitycznych.
 - pliki Markdown
 - zapytania SQL
 - praca z agentami AI
+
+## Repozytorium zdalne
+
+Projekt jest synchronizowany z GitHubem.
