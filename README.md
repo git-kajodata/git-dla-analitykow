@@ -11,7 +11,3 @@ Repozytorium do nauki Gita na przykładach analitycznych.
 - pliki Markdown
 - zapytania SQL
 - praca z agentami AI
-
-## Kontakt
-
-Pytania do kursu kierujemy do prowadzącego
